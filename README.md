@@ -7,6 +7,7 @@ GCM Push Notification
  Instruction for GCM Push Notification
   
   1)Register your application in Google console "https://console.developers.google.com/"
+  <br>
       1.1)  Go to API , enable "Google Cloud Messaging for Android"
 	  1.2)  Go to credential , click "Create Ne key" . Then click "server key"
 	  1.3) add  Example: 192.168.0.1, then create Api key (This process is for white listing your url)
