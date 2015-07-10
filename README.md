@@ -10,9 +10,9 @@ GCM Push Notification
   <br>
                 1.1)  Go to API , enable "Google Cloud Messaging for Android"
             <br>
-	  1.2)  Go to credential , click "Create Ne key" . Then click "server key"
+	  1.2)  Go to credential , click "Create New key" . Then click "server key"
 	    <br>
-	  1.3) add  Example: 192.168.0.1, then create Api key (This process is for white listing your url)
+	  1.3) add  Example: 000.000.0.0, then create Api key (This process is for white listing your url)
 	    <br>
 	  1.4) use the genrated API KEY in the config file 
 	    <br>
